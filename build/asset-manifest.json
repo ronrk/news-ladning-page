@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.886b451c.css",
+    "main.js": "/static/js/main.83a402b5.js",
+    "static/media/image-web-3-desktop.jpg": "/static/media/image-web-3-desktop.988d05305d18140f188c.jpg",
+    "static/media/image-retro-pcs.jpg": "/static/media/image-retro-pcs.4ecb8a36b05f012297a6.jpg",
+    "static/media/logo.svg": "/static/media/logo.c6b5661f5975f9f1c10d76ac5d2a72c6.svg",
+    "index.html": "/index.html",
+    "main.886b451c.css.map": "/static/css/main.886b451c.css.map",
+    "main.83a402b5.js.map": "/static/js/main.83a402b5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.886b451c.css",
+    "static/js/main.83a402b5.js"
+  ]
+}
